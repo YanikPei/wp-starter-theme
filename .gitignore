@@ -1,4 +1,6 @@
-# Created by https://www.gitignore.io/api/osx,windows,linux,bower
+# Created by https://www.gitignore.io/api/ass,osx,linux,windows,bower
+
+#!! ERROR: ass is undefined. Use list command to see defined gitignore types !!#
 
 ### OSX ###
 .DS_Store
@@ -28,6 +30,16 @@ Temporary Items
 .apdisk
 
 
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
 ### Windows ###
 # Windows image file caches
 Thumbs.db
@@ -49,19 +61,8 @@ $RECYCLE.BIN/
 *.lnk
 
 
-### Linux ###
-*~
-
-# KDE directory preferences
-.directory
-
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
-
-
 ### Bower ###
 bower_components
 .bower-cache
 .bower-registry
 .bower-tmp
-
