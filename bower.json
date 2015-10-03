@@ -1,0 +1,24 @@
+{
+  "name": "wp-starter-theme",
+  "version": "0.0.1",
+  "authors": [
+    "Yanik Peiffer <yanik-peiffer@gmx.de>"
+  ],
+  "description": "This is a starter-theme for WordPress",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "wordpress",
+    "starter-theme"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
