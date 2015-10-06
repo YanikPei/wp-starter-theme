@@ -1,6 +1,9 @@
-# Created by https://www.gitignore.io/api/ass,osx,linux,windows,bower
+# Created by https://www.gitignore.io/api/sass,osx,linux,windows,bower
 
-#!! ERROR: ass is undefined. Use list command to see defined gitignore types !!#
+### Sass ###
+.sass-cache/
+*.css.map
+
 
 ### OSX ###
 .DS_Store
